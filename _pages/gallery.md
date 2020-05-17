@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 # Gallery

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News Archive
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 ## News Archive

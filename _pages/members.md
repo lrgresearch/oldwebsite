@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 # Members

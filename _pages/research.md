@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 # Research

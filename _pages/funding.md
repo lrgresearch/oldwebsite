@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Funding
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 # Funding

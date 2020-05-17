@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Facilities
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 # Facilities

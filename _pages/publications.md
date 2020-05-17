@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-image: '/files/bannerthin.png'
+image: '/files/ribbon.png'
 ---
 
 # Publications
