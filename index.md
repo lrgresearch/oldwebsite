@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Image](files/banner.png)
 
 [Home](index.md) | [Facilities](facilities.md) | [Funding](funding.md) | [Gallery](gallery.md) | [Members](members.md) | [Archive](newsarchive.md) | [Publications](publications.md) | [Research](research.md)
 
