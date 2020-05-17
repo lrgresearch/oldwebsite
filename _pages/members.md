@@ -4,8 +4,6 @@ title: Members
 image: '/files/ribbon.png'
 ---
 
-# Members
-
 ## Faculty Members
 <table>
 <tr><th><img src="files/members/mkasap.jpg"></th><th>Prof Dr Mehmet Kasap<br>Tel: +903122021246<br>Email: mkasap-AT-gazi.edu.tr<br>Website: http://websitem.gazi.edu.tr/site/mkasap</th></tr>

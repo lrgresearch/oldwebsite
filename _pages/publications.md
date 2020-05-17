@@ -4,8 +4,6 @@ title: Publications
 image: '/files/ribbon.png'
 ---
 
-# Publications
-
 The articles are copyrighted (©) by the respective publishers. DOI links are provided below. Please do not hesitate to contact to obtain author copies of the articles.
 
 ## SCI Articles

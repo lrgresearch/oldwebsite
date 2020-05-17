@@ -4,7 +4,6 @@ title: Gallery
 image: '/files/ribbon.png'
 ---
 
-# Gallery
 ![Image](files/gallery/grup3.jpg)
 
 Group Photo – May 2016

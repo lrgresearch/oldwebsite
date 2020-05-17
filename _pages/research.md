@@ -4,8 +4,6 @@ title: Research
 image: '/files/ribbon.png'
 ---
 
-# Research
-
 ## Wide Band-gap Materials
 
 ### GaN-based heterostructures (AlGaN/GaN, InAlN/GaN etc.)

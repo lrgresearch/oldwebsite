@@ -4,8 +4,6 @@ title: Funding
 image: '/files/ribbon.png'
 ---
 
-# Funding
-
 ![Image](files/tuba.png)
 * Turkish Academy of Sciences
   * TUBA/GEBIP Programme 2016

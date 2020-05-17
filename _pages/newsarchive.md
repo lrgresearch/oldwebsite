@@ -4,7 +4,6 @@ title: News Archive
 image: '/files/ribbon.png'
 ---
 
-## News Archive
 The latest news can be found at our [home page](index.md). This page is the archive.
 
 
