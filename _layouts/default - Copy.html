@@ -13,6 +13,17 @@
     <![endif]-->
   </head>
   <body>
+    <div class="wrapper">
+      <header>
+        <img src="files/logo.png">
+
+<br><br>
+        {% if site.show_downloads %}
+<h4>Aestimo</h4><a href="http://www.aestimosolver.org" imageanchor="1"><img border="0" height=200 width=200 src="files/aes.png" /></a>
+      <p>
+        <small>We are supporting <a href="http://www.aestimosolver.org/">Aestimo </a> Self-consistent Schrödinger-Poisson solver.</small>
+        {% endif %}
+      </header>
       <section>
 
       {{ content }}
