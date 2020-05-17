@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: page
+title: Welcome
+image: '/files/banner.png'
 ---
-![Image](files/banner.png)
 
-[Home](index.md) | [Facilities](facilities.md) | [Funding](funding.md) | [Gallery](gallery.md) | [Members](members.md) | [Archive](newsarchive.md) | [Publications](publications.md) | [Research](research.md)
-
-
-  
+ 
 Welcome,
 
-Lisesivdin Research Group (LRG) on Low-dimensional Materials and Devices is a research group within the sub-department of Condensed Matter Physics, which is part of the Department of Physics at Gazi University.
+Low-dimensional Materials and Devices Research Group (LRG) is a research group within the sub-department of Condensed Matter Physics, which is part of the Department of Physics at Gazi University.
 
 Our research is primarily focused on developing the physics and technology behind high-tech semiconductor devices which are mostly transistors. As material groups, we are interested in GaN-based materials, ZnO-based materials, graphene and black phosphorus. 
 

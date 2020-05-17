@@ -1,4 +1,8 @@
-[Home](index.md) | [Facilities](facilities.md) | [Funding](funding.md) | [Gallery](gallery.md) | [Members](members.md) | [Archive](newsarchive.md) | [Publications](publications.md) | [Research](research.md)
+---
+layout: page
+title: Research
+image: '/files/bannerthin.png'
+---
 
 # Research
 

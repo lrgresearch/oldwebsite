@@ -1,4 +1,8 @@
-[Home](index.md) | [Facilities](facilities.md) | [Funding](funding.md) | [Gallery](gallery.md) | [Members](members.md) | [Archive](newsarchive.md) | [Publications](publications.md) | [Research](research.md)
+---
+layout: page
+title: News Archive
+image: '/files/bannerthin.png'
+---
 
 ## News Archive
 The latest news can be found at our [home page](index.md). This page is the archive.
