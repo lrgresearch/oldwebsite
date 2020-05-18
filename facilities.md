@@ -3,6 +3,8 @@ layout: page
 title: Facilities
 ---
 
+![Image](files/ribbon.png)
+
 # Facilities
 We are studying in both experimentally and numerically. You may found more information about our facilities below.
 ## Experimental Studies

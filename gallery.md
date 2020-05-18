@@ -3,6 +3,8 @@ layout: page
 title: Gallery
 ---
 
+![Image](files/ribbon.png)
+
 ![Image](files/gallery/grup3.jpg)
 
 Group Photo – May 2016

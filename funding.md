@@ -3,6 +3,8 @@ layout: page
 title: Funding
 ---
 
+![Image](files/ribbon.png)
+
 ![Image](files/tuba.png)
 * Turkish Academy of Sciences
   * TUBA/GEBIP Programme 2016
