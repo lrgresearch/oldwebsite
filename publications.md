@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-image: 
 ---
 
 ![Image](files/ribbon.png)
