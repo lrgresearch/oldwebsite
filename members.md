@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Members
-image: '/files/ribbon.png'
 ---
 
 ## Faculty Members

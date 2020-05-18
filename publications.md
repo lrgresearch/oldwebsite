@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Publications
-image: '/files/ribbon.png'
+image: 
 ---
+
+![Image](files/ribbon.png)
 
 The articles are copyrighted (©) by the respective publishers. DOI links are provided below. Please do not hesitate to contact to obtain author copies of the articles.
 

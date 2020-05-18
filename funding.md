@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Funding
-image: '/files/ribbon.png'
 ---
 
 ![Image](files/tuba.png)

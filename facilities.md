@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Facilities
-image: '/files/ribbon.png'
 ---
 
 # Facilities

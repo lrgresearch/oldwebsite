@@ -1,7 +1,6 @@
 ---
 layout: page
 title: News Archive
-image: '/files/ribbon.png'
 ---
 
 The latest news can be found at our [home page](index.md). This page is the archive.

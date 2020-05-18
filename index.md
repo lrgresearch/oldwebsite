@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Welcome
-image: '/files/banner.png'
 ---
 
+![Image](files/banner.png)
  
 Welcome,
 

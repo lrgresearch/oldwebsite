@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-image: '/files/ribbon.png'
 ---
 
 ## Wide Band-gap Materials

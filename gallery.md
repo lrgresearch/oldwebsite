@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Gallery
-image: '/files/ribbon.png'
 ---
 
 ![Image](files/gallery/grup3.jpg)
