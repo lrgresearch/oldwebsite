@@ -9,6 +9,7 @@ title: Members
 
 ![MKasap](files/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](http://websitem.gazi.edu.tr/site/mkasap)
 ![SBLisesivdin](files/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](http://sblisesivdin.github.io)
+![BLisesivdin](files/members/nopic.png) | [Assoc. Prof. Dr. Beyza Lisesivdin](http://websitem.gazi.edu.tr/site/beyzas)
 
 ## Graduate (PhD/Masters) Students
 
