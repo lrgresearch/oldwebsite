@@ -23,8 +23,8 @@ Department of Physics, Faculty of Science, Gazi University, Ankara, Turkey 06500
 * Laboratory: Lab Building Room 335
 * Office: Class Building Room O-3008
 * Phone: +90 312 202 1391
-* bora@gazi.edu.tr
-* http://www.lrgresearch.org
+* bora-AT-gazi.edu.tr
+* [http://www.lrgresearch.org](http://www.lrgresearch.org)
   
 ## News
 
