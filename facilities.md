@@ -5,17 +5,15 @@ title: Facilities
 
 ![Image](files/ribbon.png)
 
-# Facilities
 We are studying in both experimentally and numerically. You may found more information about our facilities below.
+
 ## Experimental Studies
 
 ### Chemical Vapor Deposition System
 
 We have an Ultrasonic Spray Chemical Vapor Deposition with Plasma Generator and Ozone generator for growth of ZnO, MgZnO and their heterostructures.
 
-![Image](files/cvd.jpg)
-
-In additional to our ZnO system, we have a Graphene CVD system.
+In additional to our ZnO system, we have a small Graphene CVD system.
 
 ### Electrical Characterization Laboratory
 
@@ -38,10 +36,14 @@ Stage and EBox Size:	Compact table top design, with passive vibration prevention
 ## Computational Studies
 
 ### Device Simulations
-![Image](files/tibercad.jpg)
-* TiberCad: Multiscale 3D nano device simulator,
+![Image](files/tibercad.jpg) ![Image](files/aestimosmall.gif)
+
+* **TiberCad:** Multiscale 3D nano device simulator,
+* **Aestimo 1D:** Open-source 1D nano device simulator,
 
 ### Density Functional Theory Studies
-![Image](files/quantumwise.jpg) ![Image](files/castep.jpg)
-* QuantumWise Atomistix Toolkit (ATK):First-principles simulation software for nanoscience,
-* Accelrys Materials Studio with CASTEP module,
+![Image](files/quantumwise.jpg) ![Image](files/castep.png) ![Image](files/fhiaims.png)
+
+* **QuantumWise ATK:**First-principles simulation software for nanoscience,
+* **CASTEP:** is a full-featured materials modelling code based on a first-principles quantum mechanical description of electrons and nuclei.
+* **FHI-Aims:** is an efficient, accurate all-electron, full-potential electronic structure code package .

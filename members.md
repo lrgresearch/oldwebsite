@@ -6,6 +6,11 @@ title: Members
 ![Image](files/ribbon.png)
 
 ## Faculty Members
+
+![MKasap](files/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](http://websitem.gazi.edu.tr/site/mkasap)
+![SBLisesivdin](files/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](http://sblisesivdin.github.io)
+
+
 <table>
 <tr><th><img src="files/members/mkasap.jpg"></th><th>Prof Dr Mehmet Kasap<br>Tel: +903122021246<br>Email: mkasap-AT-gazi.edu.tr<br>Website: http://websitem.gazi.edu.tr/site/mkasap</th></tr>
 <tr><th><img src="files/members/bora.jpg"></th><th>Prof Dr Sefer Bora Lisesivdin<br>Tel: +903122021391<br>Email: bora-AT-gazi.edu.tr<br>Website: http://sblisesivdin.lrgresearch.org</th></tr></table>
@@ -14,9 +19,7 @@ title: Members
 <table>
 <tr><th><img src="files/members/polat-1.jpg"></th><th>Mr Polat Narin, MSc<br>Email: polatnarin-AT-kuark.org<br>Email: polatnarin0-AT-gmail.com<br>Website: http://narin.lrgresearch.org</th></tr>
 <tr><th><img src="files/members/ece.jpg"></th><th>Ms Ece Kutlu, MSc<br>Email:eciss06-AT-gmail.com<br>Website: http://ecekutlu.lrgresearch.org</th></tr>
-<tr><th><img src="files/members/nopic.png"></th><th>Mr Mehmet Taha Haliloglu, BEng<br>Email:</th></tr>
-<tr><th><img src="files/members/nopic.png"></th><th>Mr Kemal Berk Sonmez, BEng<br>Email:</th></tr>
-<tr><th><img src="files/members/nopic.jpg"></th><th>Ms Meltem Yayla, BSc<br>Email:n/a</th></tr>
+<tr><th><img src="files/members/nopic.png"></th><th>Ms Meltem Yayla, BSc<br>Email:n/a</th></tr>
 </table>
 
 

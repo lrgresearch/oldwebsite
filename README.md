@@ -1,2 +1,2 @@
 # LRG Research Group Website
-Used theme: https://github.com/aspirethemes/type
+Used theme: https://github.com/poole/hyde
