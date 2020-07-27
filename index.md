@@ -12,6 +12,11 @@ layout: page
 
 ## News
 
+#### May 2020
+
+* We have attended the [Kobit-4 Quantum Optics and Information meeting](https://kobit.org.tr/tr/) held online because of pandemic with two proceedings.
+* Tugce Han and Yusuf Cetin joined our group as MSc students. Welcome.
+
 #### March 2020
 
 * Congratulations! Polat Narin has been selected as an **Outstanding Reviewer** for **Nanotechnology** for **2019**, in recognition of the high quality and timeliness of his reviews during the year. 
