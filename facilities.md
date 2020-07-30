@@ -11,7 +11,7 @@ We are studying in both experimentally and numerically. You may found more infor
 
 ### Chemical Vapor Deposition System
 
-We have an Ultrasonic Spray Chemical Vapor Deposition with Plasma Generator and Ozone generator for growth of ZnO, MgZnO and their heterostructures.
+We have an Ultrasonic Spray Chemical Vapor Deposition with Remote Spark Plasma Generator for Ozone generation for growth of ZnO, MgZnO and their heterostructures.
 
 In additional to our ZnO system, we have a small Graphene CVD system.
 
