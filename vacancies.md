@@ -7,12 +7,12 @@ title: Vacancies
 
 # Open Positions fo MSc, PhD and Postdoc Studies
 
-[GB](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/GB.png) We continously look for interested students and researchers who want to join the fascinating field of low-dimensional material and device research. If you are looking for a postdoc position, PhD position, a Masters work, please contact Sefer Bora Lişesivdin.
+![GB](files/GB.png) We continously look for interested students and researchers who want to join the fascinating field of low-dimensional material and device research. If you are looking for a postdoc position, PhD position, a Masters work, please contact Sefer Bora Lişesivdin.
 
 
 # Yüksek Lisans ve Doktora Öğrencisi / Doktora Sonrası Araştırmacı
 
-[TR](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/TR.png) Düşük boyutlu malzeme ve cihaz araştırmalarının büyüleyici alanına katılmak isteyen ilgili öğrencileri ve araştırmacıları sürekli olarak arıyoruz. İlgili alanda doktora sonrası, doktora  yada yüksek lisans çalışması düşünüyorsanız, lütfen Sefer Bora Lişesivdin ile iletişime geçin.
+![TR](files/TR.png) Düşük boyutlu malzeme ve cihaz araştırmalarının büyüleyici alanına katılmak isteyen ilgili öğrencileri ve araştırmacıları sürekli olarak arıyoruz. İlgili alanda doktora sonrası, doktora  yada yüksek lisans çalışması düşünüyorsanız, lütfen Sefer Bora Lişesivdin ile iletişime geçin.
 
 
 # Possible study subjects (not limited to):
