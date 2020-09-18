@@ -12,6 +12,10 @@ layout: page
 
 ## News
 
+#### September 2020
+
+* Our "Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure" titled study is accepted at Chemical Physics Letters.
+
 #### May 2020
 
 * We have attended the [Kobit-4 Quantum Optics and Information meeting](https://kobit.org.tr/tr/) held online because of pandemic with two proceedings.
