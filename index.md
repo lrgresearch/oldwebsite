@@ -14,7 +14,9 @@ layout: page
 
 #### September 2020
 
-* Our "Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure" titled study is accepted at Chemical Physics Letters.
+* Our **"Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure"** titled study is accepted at Chem. Phys. Lett. This study is a joint DFT study which was done at University of Ulm visit between Nov. 2019 - Feb 2020. 
+
+* Reference paper for Aestimo 1D solver: **"General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D"** which gives a general overview of the Aestimo 1D has been published in Comput. Mater. Sci. Aestimo 1D is an open-source one-dimensional Schrödinger-Poisson solver project that is started by Prof. Lisesivdin in 2012.
 
 #### May 2020
 
