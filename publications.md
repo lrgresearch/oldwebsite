@@ -9,7 +9,19 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ## SCI Articles
 
+### 2021
+
+72.) H. Hebal, Z. Koziol, S.B. Lisesivdin, R. Steed "General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci. 186, 110015 (2021).
+
+### 2020
+
+71.) B.Sarikavak-Lisesivdin, S.B.Lisesivdin, E.Ozbay, F.Jelezko "Structural parameters and electronic properties of 2D carbon allotrope: Graphene with a kagome lattice structure" Chem. Phys. Lett. 760, 138006 (2020).
+
+70.) E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures" Mater. Sci. Eng. B 254, 114506 (2020).
+
 ### 2019
+
+69.) R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism", Philos. Mag. Lett. 99, 424 (2019).
 
 68.) P. Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Ab initio study of electronic properties of armchair graphene nanoribbons passivated with heavy metal elements" Solid State Commun. 296, (2019).
 
