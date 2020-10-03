@@ -11,6 +11,8 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ### 2021
 
+73.) F. Sonmez, S. Ardali, G. Atmaca, S.B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, E. Tiras "The effect of passivation layer, doping and spacer layer on electron-longitudinal optical phonon momentum relaxation time in Al0.3Ga0.7N/AlN/GaN heterostructures" Mater. Sci. Semicond. Process. 122, 105449 (2021).
+
 72.) H. Hebal, Z. Koziol, S.B. Lisesivdin, R. Steed "General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci. 186, 110015 (2021).
 
 ### 2020
