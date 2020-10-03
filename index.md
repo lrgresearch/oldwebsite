@@ -12,6 +12,10 @@ layout: page
 
 ## News
 
+#### October 2020
+
+* A new article **"The effect of passivation layer, doping and spacer layer on electron-longitudinal optical phonon momentum relaxation time in Al0.3Ga0.7N/AlN/GaN heterostructures"**, which is a result of a joint project between Gazi University, Eskisehir Technical University, Rzhanov Institute of Semiconductor Physics and Novosibirsk State University, is published in Mater. Sci. Semicond. Process.
+
 #### September 2020
 
 * Our **"Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure"** titled study is accepted at Chem. Phys. Lett. This study is a joint DFT study which was done at University of Ulm visit between Nov. 2019 - Feb 2020. 
