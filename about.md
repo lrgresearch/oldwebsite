@@ -4,9 +4,9 @@ title: About LRG
 ---
 ## About
 
-Low-dimensional Materials and Devices Research Group is a part of the sub-department of Condensed Matter Physics, which is part of the Department of Physics at Gazi University.
+Low-dimensional Materials and Systems (LRG) is a research group studying the physics of semiconductor or dielectric materials with a low-dimensionality involves. For this, the effects of defects, impurities and low-dimensional shapes are investigated. As material groups, we are interested in GaN-based materials, ZnO-based materials, Carbon allotropes and Carbon-based structures (graphene, diamond and SiC) and black phosphorus. 
 
-Our research is primarily focused on developing the physics and technology behind high-tech semiconductor devices which are mostly transistors. As material groups, we are interested in GaN-based materials, ZnO-based materials, graphene and black phosphorus.
+LRG is located at Laboratory Building, Faculty of Science at Gazi University, Ankara, Turkey.
 
 We are capable to conduct both experimental and calculations studies. More information about our facilities can be found [here](facilities.md).
 
