@@ -5,10 +5,10 @@ layout: page
 ![Image](files/banner.png)
  
 > **ANNOUNCEMENT**
-> We continuously look for interested students and researchers who want to join the fascinating field of low-dimensional material and device research. If you are looking for a PhD position, a Masters work, please visit [our related page](vacancies.md).
+> We continuously look for interested students and researchers who want to join the fascinating field of low-dimensional material and systems research. If you are looking for a PhD position, a Masters work, please visit [our related page](vacancies.md).
 
 > **DUYURU**
-> Düşük boyutlu malzeme ve cihaz araştırmalarının büyüleyici alanına katılmak isteyen ilgilenen öğrencileri ve araştırmacıları sürekli arıyoruz. Bu konularda yüksek lisans ve/veya doktora çalışması gerçekleştirmek istiyorsanız, lütfen [ilgili sayfamızı](vacancies.md) ziyaret ediniz.
+> Düşük boyutlu malzeme ve sistemleri araştırmalarının büyüleyici alanına katılmak isteyen ilgilenen öğrencileri ve araştırmacıları sürekli arayışı içindeyiz. Bu konularda yüksek lisans ve/veya doktora çalışması gerçekleştirmek istiyorsanız, lütfen [ilgili sayfamızı](vacancies.md) ziyaret ediniz.
 
 ## News
 
