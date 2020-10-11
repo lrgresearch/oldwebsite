@@ -12,7 +12,7 @@ title: Vacancies
 
 # Yüksek Lisans ve Doktora Öğrencisi / Doktora Sonrası Araştırmacı
 
-![TR](files/TR.png) Düşük boyutlu malzeme ve sistemleri araştırmalarının büyüleyici alanına katılmak isteyen ilgili öğrencileri ve araştırmacıları sürekli olarak arıyoruz. İlgili alanda doktora sonrası, doktora  yada yüksek lisans çalışması düşünüyorsanız, lütfen Sefer Bora Lişesivdin ile iletişime geçin.
+![TR](files/TR.png) Düşük boyutlu malzeme ve sistemleri araştırmalarının büyüleyici alanına katılmak isteyen ilgili öğrencileri ve araştırmacılarının sürekli olarak arayışı içindeyiz. İlgili alanda doktora sonrası, doktora  yada yüksek lisans çalışması düşünüyorsanız, lütfen Sefer Bora Lişesivdin ile iletişime geçin.
 
 
 # Possible study subjects (not limited to):
