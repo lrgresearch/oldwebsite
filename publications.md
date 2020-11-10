@@ -206,20 +206,3 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 ### 2014
 
 1.) E. L. Wolf, M. Medikonda, (Transl. eds: B. Sarikavak-Lisesivdin, S. B. Lisesivdin) “Nanoteknoloji Devrimini Anlamak” Nobel Press, (2014).
-
-## PhD dissertations
-
-* G. Atmaca, (Gazi University, Institute of Science, Physics), Investigations of low-field transport and hot-electron transport in passivated AlGaN/GaN hemts with Si3N4, 2013 - 2018.
-
-## MSc theses
-
-* O. Omeroglu, (Gazi University, Institute of Science, Physics), Investigation of the Electronic Properties of Zn, Cd and Hg-doped Graphene Sheets with Ab-Initio Methods, 2016 - 2018.
-* R. Ibrahem, (Gazi University, Institute of Science, Physics), Investigation of Electronic and Optical Properties of Wurtzite MgZnO with First Principles Calculations, 2016 - 2018.
-* M. Ozturk, (Gazi University, Institute of Science, Physics), Electrical Characteristics and Scattering Analysis of Ultrathin Barrier GaN-Based High Electron Mobility Transistors, 2015 - 2018.
-* J. M. M. J. Al-Abbas, (Gazi University, Institute of Science, Physics),Simulation and optimation of GaN-based ultrathin barrier high electron mobility transistors, 2014 - 2016.
-* E. Kutlu, (Gazi University, Institute of Science, Physics), Investigation of the effects of Cadmium Doping on Electronic and Optical Properties of Graphene Nanoribbons, 2014 -2016.
-* A.F. Kuloğlu, (Gazi Üniversitesi, Fen Bilimleri Enstitüsü, Fizik), Kenarları Paladyum ile Sonlandırılmış Grafen Nanoşeritlerin Elektronik Özelliklerinin İncelenmesi, 2010-2012.
-* G. Atmaca, (Gazi Üniversitesi, Fen Bilimleri Enstitüsü, Fizik), Çoklu Kuvantum Kuyu Arkabariyer Yapısına Sahip AlQN/AlN/GaN-Temelli (Q=Ga, In) Transistörlerde 2-Boyutlu Taşıyıcıların Özelliklerinin Hesaplamalı İncelenmesi, 2010-2012.
-* K. Elibol, (Gazi Üniversitesi, Fen Bilimleri Enstitüsü, Fizik), Grafit Soyma ve Epitaksiyel Yöntemlerle Elde Edilmiş Grafenlerde Manyetoiletim ve Yüzey Özellikleri İncelemeleri, 2010-2012.
-* G. Karakoç, (Gazi Üniversitesi, Fen Bilimleri Enstitüsü, Fizik), InGaN Kuvantum Kuyulu AlInN/AlN/(InGaN)/GaN Çokluyapılarında Elektron İletim Özelliklerinin İncelenmesi. 2009-2012.
-* C. Güneş, (Gazi Üniversitesi, Fen Bilimleri Enstitüsü, Fizik), Ultraince bariyerli GaN-temelli çokluyapılarda iki-boyutlu elektron gazının elektron ve manyetoiletim özellikleri. 2009-2012.
