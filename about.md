@@ -18,3 +18,7 @@ Department of Physics, Faculty of Science, Gazi University, Ankara, Turkey 06500
 * Phone: +90 312 202 1391
 * bora-AT-gazi.edu.tr
 * [http://www.lrgresearch.org](http://www.lrgresearch.org)
+
+## Map
+[Click for detailed map.](https://www.openstreetmap.org/#map=16/39.9378/32.8159)
+![Gazi Map](files/map.png)
