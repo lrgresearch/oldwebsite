@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
+[![LRG Banner](files/banner3.png)](https://github.com/lrgresearch/lrgresearch.org/blob/master/research.md#next-in-lrg)
 
-![Image](files/banner2.png)
  
 > **ANNOUNCEMENT**
 > We continuously look for interested students and researchers who want to join the fascinating field of low-dimensional material and systems research. If you are looking for a PhD position, a Masters work, please visit [our related page](vacancies.md) .
