@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-[![LRG Banner](files/banner3.png)](https://github.com/lrgresearch/lrgresearch.org/blob/master/research.md#next-in-lrg)
+[![LRG Banner](files/banner3.png)](https://lrgresearch.org/research.html#next-in-lrg)
 
  
 > **ANNOUNCEMENT**
