@@ -29,6 +29,15 @@ title: Research
 * Investigation of hybrid GaN/ZnO heterostructures
 * Band engineering; device design and modeling
 
+# Next in LRG
+With the COVID-19 pandemic, our lives change invariably. As scientists and faculty members of a Gazi University, we have already changed to many things in our education system. With addition of our past experiences involving long term experimental system shutdowns, constructions and similar unpredictable problems we adapted and improved ourselves how to work and what to work.
+
+In the next few years, we want to continue our studies with a hybrid abroach in "every sense".
+
+1. **Hybrid working as type**: Beginning with the first days of our group we are studying both experimental and calculational subjects. All our projects included both parts of these study types. We would like to extend our studies in this sense.
+2. **Hybrid working as place**: With the pandemic we are now can work locally or remotely. We can provide experimental or calculational subjects to our students with thinking possibility to attend laboratory or not.
+3. **Hybrid working as subject**: Most of our subjects involving hybrid material systems to study. For example: We are interested in 2DEG populations in ZnO/GaN based *hybrid* heterostructures. We are also interested in GaN HEMT / Diamond NV center *hybrid* devices for 2DEG mapping. And list can be go up like this. The interactions between two material systems are giving many new possibilities and these possibilities make these subjects attractive.
+
 # Projects
 ### Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method
 
