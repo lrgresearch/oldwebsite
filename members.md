@@ -3,8 +3,6 @@ layout: page
 title: Members
 ---
 
-![Image](files/ribbon.png)
-
 ## Faculty Members
 
 ![MKasap](files/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](http://websitem.gazi.edu.tr/site/mkasap)
