@@ -3,8 +3,6 @@ layout: page
 title: Gallery
 ---
 
-![Image](files/ribbon.png)
-
 ![Image](files/gallery/grup4.jpg)
 
 **Group Photo – September 2019**
