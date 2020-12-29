@@ -3,8 +3,6 @@ layout: page
 title: News Archive
 ---
 
-![Image](files/ribbon.png)
-
 The latest news can be found at our [home page](index.md). This page is the archive.
 
 ### Publications in 2019!
