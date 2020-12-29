@@ -3,33 +3,32 @@ layout: page
 title: Research
 ---
 
-![Image](files/ribbon.png)
 
-# Main Research Themes
-## Low-dimensional Materials and Systems
-### Graphene and other 2D structures
+## Main Research Themes
+### Low-dimensional Materials and Systems
+#### Graphene and other 2D structures
 * Graphene based transistors
 * Investigation of magnetoconductivity and surface properties of exfoliated and epitaxially grown graphene samples
 * Investigation of scattering mechanisms in epitaxially graphene on SiC substrate
 
-### Defects and impurity engineering
+#### Defects and impurity engineering
 * Investigation of the effects of defects/impurties to structural, electronic and optical properties in graphene nanoribbons, graphene sheets, other 2D carbon allotropes and 2D black phosphorus, 3D systems as Si3N4, MgZnO.
 * Experimental ODMR measurements of NV- centers in Diamond.
 
-## 2DEG in Wide Band-gap Materials
-### 2DEG in GaN-based heterostructures (AlGaN/GaN, InAlN/GaN etc.)
+### 2DEG in Wide Band-gap Materials
+#### 2DEG in GaN-based heterostructures (AlGaN/GaN, InAlN/GaN etc.)
 * Improvement of two dimensional electron gas (2DEG) well parameters
 * Experimental investigation of electron transport, magnetotransport, hot-electron transport properties
 * Investigation of effect of Si3N4 surface passivation
 * InGaN/GaN multi-quantum wells (MQWs)
 * Band engineering; High Electron Mobility Transistor (HEMT) device design and modeling
 
-### 2DEG in ZnO-based heterostructures (MgZnO/ZnO, BeZnO/ZnO etc.)
+#### 2DEG in ZnO-based heterostructures (MgZnO/ZnO, BeZnO/ZnO etc.)
 * Improvement of 2DEG well parameters
 * Investigation of hybrid GaN/ZnO heterostructures
 * Band engineering; device design and modeling
 
-# Next in LRG
+## Next in LRG
 With the COVID-19 pandemic, our lives change invariably. As scientists and faculty members of a Gazi University, we have already changed to many things in our education system. With addition of our past experiences involving long term experimental system shutdowns, constructions and similar unpredictable problems we adapted and improved ourselves how to work and what to work.
 
 As LRG Research Group, we want to continue our studies with a hybrid approach in "every sense" in the next few years.
@@ -38,7 +37,7 @@ As LRG Research Group, we want to continue our studies with a hybrid approach in
 2. **Hybrid working as place**: With the pandemic we are now can work locally or remotely. We can provide experimental or calculational subjects to our students with thinking possibility to attend laboratory or not.
 3. **Hybrid working as subject**: Most of our subjects involving hybrid material systems to study. For example: We are interested in 2DEG populations in ZnO/GaN based *hybrid* heterostructures. We are also interested in GaN HEMT / Diamond NV center *hybrid* devices for 2DEG mapping. And list can be go up like this. The interactions between two material systems are giving many new possibilities and these possibilities make these subjects attractive.
 
-# Projects
+## Projects
 
 ### Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method
 
@@ -64,7 +63,7 @@ In this project, ultra-thin barrier HEMTs will be designed for different configu
 
 In this project, the effect of in situ grown Si3N4 passivation on electrical, optical and structural properties of 2DEG including AlGaN/GaN structures were investigated in details. For the characterization, Hall effect, quantum Hall effect, high-speed pulse high electric field measurements, Raman, atomic force microscopy, x-ray diffraction and photoluminescence measurements were taken and analyzed. In addition to these experimental methods, the effect of several impurities on electronic and optical properties of Si3N4  material was investigated with density functional theory. In addition, some transistor parameters of high power transistors with Si3N4 passivation with impurities were calculated with device simulations. 
 
-# Theses and Dissertations
+## Theses and Dissertations
 
 * RF magnetron sputter system and passive circuit element resistor production and characterization
 * Back side via hole etching application of SiC for GaN based field effect transistors
