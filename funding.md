@@ -3,7 +3,7 @@ layout: page
 title: Funding
 ---
 
-![Image](files/ribbon.png)
+## Funding
 
 ![Image](files/tuba.png)
 * Turkish Academy of Sciences
