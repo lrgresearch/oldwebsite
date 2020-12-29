@@ -3,8 +3,6 @@ layout: page
 title: Vacancies
 ---
 
-![Image](files/ribbon.png)
-
 ## Open Positions fo MSc, PhD and Postdoc Studies
 
 ![GB](files/GB.png) We continously look for interested students and researchers who want to join the fascinating field of low-dimensional material and systems research. If you are looking for a postdoc position, PhD position, a Masters work, please contact Sefer Bora Lişesivdin.
