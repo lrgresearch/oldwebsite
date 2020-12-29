@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facilities/Theses and Dissertations
+title: Facilities
 ---
 
 ### RF magnetron sputter system and passive circuit element resistor production and characterization
