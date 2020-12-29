@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Facilities
+title: Facilities/Theses and Dissertations
 ---
-
-![Image](files/ribbon.png)
-
-## Theses and Dissertations
 
 ### RF magnetron sputter system and passive circuit element resistor production and characterization
 *Researcher: Kemal Berk Sonmez, Supervisor: Sefer Bora Lisesivdin*
