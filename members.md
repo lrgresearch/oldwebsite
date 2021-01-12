@@ -15,7 +15,8 @@ title: Members
 ![EKutluNarin](files/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc
 ![MYayla](files/members/nopic.png) | Ms Meltem Yayla, BSc
 ![THan](files/members/nopic.png) | Ms Tugce Han, BSc
-![YCetin](files/members/nopic.png) | Mr Yusuf Cetin, BSc
+![GErcetin](files/members/nopic.png) | Ms Gul Ercetin, BSc
+![PTurhan](files/members/nopic.png) | Mrs Pakize Turhan, BSc
 
 ## Alumni
 
