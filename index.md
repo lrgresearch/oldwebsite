@@ -12,6 +12,11 @@ layout: page
 
 ## News
 
+#### January 2021
+
+* Pakize Turhan is joined to our group. Welcome Pakize.
+* Gul Ercetin is joined to our group. Welcome Gul.
+
 #### October 2020
 
 * A new article **"The effect of passivation layer, doping and spacer layer on electron-longitudinal optical phonon momentum relaxation time in Al0.3Ga0.7N/AlN/GaN heterostructures"**, which is a result of a joint project between Gazi University, Eskisehir Technical University, Rzhanov Institute of Semiconductor Physics and Novosibirsk State University, is published in Mater. Sci. Semicond. Process.
@@ -25,7 +30,7 @@ layout: page
 #### May 2020
 
 * We have attended the [Kobit-4 Quantum Optics and Information meeting](https://kobit.org.tr/tr/) held online because of pandemic with two proceedings.
-* Tugce Han and Yusuf Cetin joined our group as MSc students. Welcome.
+* Tugce Han is joined to our group. Welcome Tugce.
 
 #### March 2020
 
@@ -37,6 +42,7 @@ layout: page
 
 #### January 2020
 
+* Meltem Yayla is joined to our group. Welcome Meltem.
 * Prof. Lisesivdin is returned from 3 month-long studies held in Institute for Quantum Optics (IQO), University of Ulm. It was decided to increase the number of studies and collaboration between LRG and IQO.
 * New publication **"Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism”** is currently published at Philos. Mag. Lett.  journal. Study is providing a new way to find better electronic structure calculations where classical DFT approaches fell short. 
 
