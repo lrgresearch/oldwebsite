@@ -12,6 +12,10 @@ layout: page
 
 ## News
 
+#### April 2021
+
+* A new article **"[Growth dynamics of mist-CVD grown ZnO nanoplatelets](https://doi.org/10.1016/j.physb.2021.413028)"**, which is a result of our D.E.H.A Project, is published in Physica B: Condensed Matter.
+
 #### March 2021
 
 * Meltem Yesiltepe is joined to our group. Welcome Meltem.
