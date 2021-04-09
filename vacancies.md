@@ -11,8 +11,6 @@ title: Vacancies
 
 ## Possible study subjects (not limited to):
 
----
-
 ### The ab-initio calculations of formation energies, electronic and optical properties of some impurities Nitrogen-Vacancy sites in Diamond Crystals
 
 We invite highly motivated candidates for a MSc/PhD position to do research in computational physics in the area of material design. Our research is aimed at increased understanding of the electronic structure of NV centers in diamond and has applications in the development of room temperature quantum devices. The work spans areas of mathematical physics, quantum mechanics, numerical methods, programming, and the use of Linux OS and analysis software in materials research.  PhD study will be more focused and detailed on the subject. MSc study will be the part of the main study.
