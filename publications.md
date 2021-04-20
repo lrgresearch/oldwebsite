@@ -9,7 +9,9 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ### 2021
 
-74.) P. Narin, E. Kutlu-Narin, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" Physica B [DOI](https://doi.org/10.1016/j.physb.2021.413028) (2021).
+75.) F. Sonmez, S. Ardali, S. B. Lisesivdin, T. V. Malin, V. G. Mansurov, K. S. Zhuravlev, E. Tiras "The effect of barrier layers on 2D electron effective mass in Al0.3Ga0.7N/AlN/GaN heterostructures" J. Phys.: Condens. Matt. [DOI](https://doi.org/10.1088/1361-648X/abf8d2) (2021).
+
+74.) P. Narin, E. Kutlu-Narin, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" Physica B 614, 413028 (2021).
 
 73.) F. Sonmez, S. Ardali, G. Atmaca, S.B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, E. Tiras "The effect of passivation layer, doping and spacer layer on electron-longitudinal optical phonon momentum relaxation time in Al0.3Ga0.7N/AlN/GaN heterostructures" Mater. Sci. Semicond. Process. 122, 105449 (2021).
 
