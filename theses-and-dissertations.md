@@ -1,5 +1,5 @@
 ---
-layout: sub
+layout: page
 title: Theses and Dissertations
 ---
 
