@@ -9,23 +9,18 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Group GitHub Repos</a>
+      <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Home</a>      
+            <a class="sidebar-nav-item" href="/about.html">About LRG</a>        
+            <a class="sidebar-nav-item" href="/facilities.html">Facilities</a>       
+            <a class="sidebar-nav-item" href="/funding.html">Funding</a>     
+            <a class="sidebar-nav-item" href="/gallery.html">Gallery</a>      
+            <a class="sidebar-nav-item" href="/members.html">Members</a>     
+           <a class="sidebar-nav-item" href="/publications.html">Publications</a>       
+            <a class="sidebar-nav-item" href="/research.html">Research</a>
+            <a class="sidebar-nav-item" href="/vacancies.html">Vacancies</a>
+      <a class="sidebar-nav-item" href="https://github.com/lrgresearch">Group GitHub Repos</a>
+    </nav>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
