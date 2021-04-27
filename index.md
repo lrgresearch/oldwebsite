@@ -8,6 +8,8 @@ layout: page
 
 #### April 2021
 
+* Third article has been accepted in a month! **"[Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films](https://link.springer.com/article/10.1007/s00339-021-04507-8)"** which is a result of our D.E.H.A Project, is published in Applied Physics A.
+
 * A new article **"[The effect of barrier layers on 2D electron effective mass in Al0.3Ga0.7N/AlN/GaN heterostructures](https://doi.org/10.1088/1361-648X/abf8d2)"**, which is a  joint study between Gazi University, Eskisehir Technical University, Rzhanov Institute of Semiconductor Physics and Novosibirsk State University, is published in J. Phys.: Condens. Matt.
 
 * A new article **"[Growth dynamics of mist-CVD grown ZnO nanoplatelets](https://doi.org/10.1016/j.physb.2021.413028)"**, which is a result of our D.E.H.A Project, is published in Physica B: Condensed Matter.
