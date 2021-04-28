@@ -3,9 +3,6 @@ layout: page
 ---
 [![LRG Banner](files/banner3.png)](https://lrgresearch.org/research.html#next-in-lrg)
 
-[![About LRG](files/buttons/aboutlrg.png)](about.md)
-[![Facilities](files/buttons/facilities.png)](facilities.md)
-
 ## News
 
 #### April 2021
