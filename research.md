@@ -28,6 +28,8 @@ title: Research
 * Investigation of hybrid GaN/ZnO heterostructures
 * Band engineering; device design and modeling
 
+---
+
 ## Next in LRG
 With the COVID-19 pandemic, our lives change invariably. As scientists and faculty members of a Gazi University, we have already changed to many things in our education system. With addition of our past experiences involving long term experimental system shutdowns, constructions and similar unpredictable problems we adapted and improved ourselves how to work and what to work.
 
@@ -37,6 +39,8 @@ As LRG Research Group, we want to continue our studies with a hybrid approach in
 2. **Hybrid working as place**: With the pandemic we are now can work locally or remotely. We can provide experimental or calculational subjects to our students with thinking possibility to attend laboratory or not.
 3. **Hybrid working as subject**: Most of our subjects involving hybrid material systems to study. For example: We are interested in 2DEG populations in ZnO/GaN based *hybrid* heterostructures. We are also interested in GaN HEMT / Diamond NV center *hybrid* devices for 2DEG mapping. And list can be go up like this. The interactions between two material systems are giving many new possibilities and these possibilities make these subjects attractive.
 4. **Hybrid education**: With the pandemic, our university utilized an online education system. We are performing our undergraduate and graduate courses using this system. In addition to these courses, our group uses video lectures in group-wide education of new MSc and PhD students and performing Zoom group meetings as well. Of course we are continuing to study face to face as much as pandemic regulations allows us. 
+
+---
 
 ## Projects
 
@@ -69,6 +73,8 @@ In this project, ultra-thin barrier HEMTs will be designed for different configu
 <img align="left" width="200" src="files/rusya-proje.png">
 
 In this project, the effect of in situ grown Si3N4 passivation on electrical, optical and structural properties of 2DEG including AlGaN/GaN structures were investigated in details. For the characterization, Hall effect, quantum Hall effect, high-speed pulse high electric field measurements, Raman, atomic force microscopy, x-ray diffraction and photoluminescence measurements were taken and analyzed. In addition to these experimental methods, the effect of several impurities on electronic and optical properties of Si3N4  material was investigated with density functional theory. In addition, some transistor parameters of high power transistors with Si3N4 passivation with impurities were calculated with device simulations. 
+
+---
 
 ## Theses and Dissertations
 
