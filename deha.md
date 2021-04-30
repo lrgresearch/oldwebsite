@@ -5,7 +5,7 @@ title: D.E.H.A.
 
 [Back to Projects page...](projects.md)
 
-### Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method (Project Synonym: D. E. H. A, Durable, Efficient, Healthy and Affordable Electronics)
+## Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method (Project Synonym: D. E. H. A, Durable, Efficient, Healthy and Affordable Electronics)
 
 *TUBITAK 1001 Project*
 
