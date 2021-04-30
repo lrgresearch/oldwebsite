@@ -5,8 +5,6 @@ title: Projects
 
 [Back to Research page...](research.md)
 
-## Projects
-
 ### Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method (Project Synonym: D. E. H. A, Durable, Efficient, Healthy and Affordable Electronics)
 
 *TUBITAK 1001 Project*
