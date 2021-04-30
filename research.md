@@ -12,6 +12,8 @@ title: Research
 ---
 
 ## Next in LRG
+
+### Hybrid Operation in every situation (Nov 2020)
 With the COVID-19 pandemic, our lives change invariably. As scientists and faculty members of a Gazi University, we have already changed to many things in our education system. With addition of our past experiences involving long term experimental system shutdowns, constructions and similar unpredictable problems we adapted and improved ourselves how to work and what to work.
 
 As LRG Research Group, we want to continue our studies with a hybrid approach in "every sense" in the next few years.
