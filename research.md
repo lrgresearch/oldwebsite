@@ -5,7 +5,7 @@ title: Research
 
 ---
 
-[<button class="button button4px">Research</button>](researchsubjects.md) 
+[<button class="button button4px">Research Subjects</button>](researchsubjects.md) 
 
 ---
 
