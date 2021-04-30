@@ -1,3 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
 [Back to Research page...](research.md)
 
 ## Projects
