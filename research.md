@@ -8,6 +8,7 @@ title: Research
 [<button class="button button4px">Main Research Subjects</button>](researchsubjects.md) 
 [<button class="button button4px">Projects</button>](projects.md) 
 [<button class="button button4px">Theses and Dissertations</button>](theses-and-dissertations.md) 
+
 ---
 
 ## Next in LRG
