@@ -5,7 +5,7 @@ title: Ultrathin
 
 [Back to Projects page...](projects.md)
 
-### High-Performance Modelling and Experimental Investigation of Transport and Device Properties of GaN-based High Electron Mobility Transistors with Ultrathin Barriers (Project Synonym: Ultrathin)
+## High-Performance Modelling and Experimental Investigation of Transport and Device Properties of GaN-based High Electron Mobility Transistors with Ultrathin Barriers (Project Synonym: Ultrathin)
 
 *TUBITAK 3001 Project*
 
