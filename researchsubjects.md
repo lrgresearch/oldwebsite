@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research Subjects
+---
+
 [Back to Research Page...](research.md)
 
 ## Research Subjects
