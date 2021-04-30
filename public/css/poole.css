@@ -391,6 +391,10 @@ tbody tr:nth-child(odd) th {
 
 .button4px {border-radius: 4px;}
 
+button:hover {
+  opacity: 0.8;
+}
+
 /*
  * Pagination
  *
