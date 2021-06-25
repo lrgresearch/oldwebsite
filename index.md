@@ -5,6 +5,10 @@ layout: page
 
 ## News
 
+#### June 2021
+
+* Polat Narin has finished his studies, passed his viva and gained his title. Congratulations Dr. Narin.
+
 #### April 2021
 
 * Third article has been accepted in a month! **"[Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films](https://link.springer.com/article/10.1007/s00339-021-04507-8)"** which is a result of our D.E.H.A Project, is published in Applied Physics A.
