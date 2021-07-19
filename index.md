@@ -7,6 +7,8 @@ layout: page
 
 #### June 2021
 
+* Meltem Yayla has finished her studies, passed her viva and gained her title. Congratulations Meltem Yayla, MSc.
+
 * Polat Narin has finished his studies, passed his viva and gained his title. Congratulations Dr. Narin.
 
 #### April 2021
