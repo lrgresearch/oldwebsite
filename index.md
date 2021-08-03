@@ -25,7 +25,7 @@ layout: page
 
 #### February 2021
 
-* Rector of Gazi University Prof. Dr. Musa Yıldız came together with the faculty members who contributed the most to our University with the TÜBİTAK and ERASMUS+ projects they carried out in the 2016-2020 period. Prof. Dr. S. B. Lisesivdin [received a certificate of appreciation](http://gazi.edu.tr/posts/view/title/rektorumuz-prof.-dr.-musa-yildiz,-yuruttugu-projelerle-universitemize-katki-saglayan-ogretim-uyelerine-tesekkur-belgesi-takdim-etti-266644) because of his contributions to our university with the projects he carried out.
+* Rector of Gazi University Prof. Dr. Musa Yıldız came together with the faculty members who contributed the most to our University with the TÜBİTAK and ERASMUS+ projects they carried out in the 2016-2020 period. Prof. Dr. S. B. Lisesivdin [received a certificate of appreciation](http://gazi.edu.tr/gazi-universitesi/view/GetMainNewsPage/266644/rektorumuz-prof-dr-musa-yildiz-yuruttugu-projelerle-universitemize-katki-saglayan-ogretim-uyeleri) because of his contributions to our university with the projects he carried out.
 
 #### January 2021
 
