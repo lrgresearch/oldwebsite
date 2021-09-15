@@ -1,9 +1,13 @@
 ---
 layout: page
 ---
-[![LRG Banner](files/banner3.png)](https://lrgresearch.org/research.html#next-in-lrg)
+[![LRG Banner](files/next2022-withlink.png)](https://lrgresearch.org/research.html#next-in-lrg)
 
 ## News
+
+#### September 2021
+
+* Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from https://github.com/lrgresearch/gpaw-tools.
 
 #### June 2021
 
