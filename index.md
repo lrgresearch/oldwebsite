@@ -7,7 +7,7 @@ layout: page
 
 #### September 2021
 
-* Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **https://github.com/lrgresearch/gpaw-tools**
+* Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **[https://github.com/lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools)**
 
 #### June 2021
 
