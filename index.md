@@ -7,7 +7,7 @@ layout: page
 
 #### September 2021
 
-* Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **[https://github.com/lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools)**
+* Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **[https://github.com/lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools)**. We have a website for *gpaw-tools* at **[here](https://www.lrgresearch.org/gpaw-tools/)**.
 
 #### June 2021
 
@@ -69,8 +69,8 @@ layout: page
 
 ## We are supporting...
 
-![Image](files/aestimosmall.gif) | [Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
-![Image](files/gpaw-tools-small.png) | [Download latest development release](https://github.com/lrgresearch/gpaw-tools/archive/refs/heads/main.zip)
+[![Image](files/aestimosmall.gif)](http://www.aestimosolver.org/) | [Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
+[![Image](files/gpaw-tools-small.png)](https://www.lrgresearch.org/gpaw-tools/) | [Download latest development release](https://github.com/lrgresearch/gpaw-tools/archive/refs/heads/main.zip)
 
 We are actively supporting to develop Aestimo 1D Self-consistent Schrödinger-Poisson solver and gpaw-tools UI/GUI for ASE/GPAW calculator.
 
