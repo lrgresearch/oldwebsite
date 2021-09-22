@@ -67,9 +67,11 @@ layout: page
 
 [more...](newsarchive.md)
 
-## Aestimo 1D
+## We are supporting...
 
-![Image](files/aestimosmall.gif)
-We are supporting  Aestimo 1D Self-consistent Schrödinger-Poisson solver.
+![Image](files/aestimosmall.gif) | [Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
+![Image](files/gpaw-tools-small.png) | [Download latest development release](https://github.com/lrgresearch/gpaw-tools/archive/refs/heads/main.zip)
 
-[Download v.2.0](https://github.com/aestimosolver/aestimo/releases/download/v2.0/aestimo-v.2.0-master.zip)
+We are actively supporting to develop Aestimo 1D Self-consistent Schrödinger-Poisson solver and gpaw-tools UI/GUI for ASE/GPAW calculator.
+
+
