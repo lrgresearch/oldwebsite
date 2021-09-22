@@ -42,8 +42,9 @@ Stage and EBox Size:	Compact table top design, with passive vibration prevention
 * **Aestimo 1D:** Open-source 1D nano device simulator,
 
 #### Density Functional Theory Studies
-![Image](files/quantumwise.jpg) ![Image](files/castep.png) ![Image](files/fhiaims.png)
+![Image](files/quantumwise.jpg) ![Image](files/castep.png) ![Image](files/fhiaims.png) ![Image](files/gpaw-logo.svg)
 
 * **QuantumWise ATK:**First-principles simulation software for nanoscience,
 * **CASTEP:** is a full-featured materials modelling code based on a first-principles quantum mechanical description of electrons and nuclei.
-* **FHI-Aims:** is an efficient, accurate all-electron, full-potential electronic structure code package .
+* **FHI-Aims:** is an efficient, accurate all-electron, full-potential electronic structure code package.
+* **GPAW:** GPAW is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
