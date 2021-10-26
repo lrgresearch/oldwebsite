@@ -9,11 +9,15 @@ title: Members
 ![SBLisesivdin](files/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](http://sblisesivdin.github.io)
 ![BLisesivdin](files/members/nopic.png) | [Assoc. Prof. Dr. Beyza Lisesivdin](http://websitem.gazi.edu.tr/site/beyzas)
 
+## Postdoctorate Research Fellow
+
+![PNarin](files/members/polat.jpg) | [Dr Polat Narin](https://sites.google.com/view/polatnarin/home?authuser=0) (@ AYBU)
+
 ## Graduate (PhD/Masters) Students
 
-![PNarin](files/members/polat.jpg) | [Mr Polat Narin, MSc](https://sites.google.com/view/polatnarin/home?authuser=0)
-![EKutluNarin](files/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc
-![MYesiltepe](files/members/nopic.png) | Ms Meltem Yesiltepe, MSc
+![EKutluNarin](files/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University)
+![MYesiltepe](files/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc
+![MTHaliloglu](files/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc
 ![MYayla](files/members/nopic.png) | Ms Meltem Yayla, BSc
 ![THan](files/members/nopic.png) | Ms Tugce Han, BSc
 ![PTurhan](files/members/nopic.png) | Mrs Pakize Turhan, BSc
@@ -22,11 +26,13 @@ title: Members
 
 ### PhD
 
+* Dr Polat Narin @ AYBU, Turkey.
 * Dr Gokhan Atmaca @ CEA LETI, France.
 * Dr Kenan Elibol @ University of Vienna, Austria.
 
 ### MSc
 
+* Mrs Ece Kutlu Narin, MSc
 * Mr Kemal Berk Sonmez, BEng, MSc
 * Mr Mehmet Taha Haliloglu, BEng, MSc @ AB Mikronano
 * Ms Rokaia Ibrahem, MSc
