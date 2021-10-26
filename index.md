@@ -9,6 +9,10 @@ layout: page
 
 * Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **[https://github.com/lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools)**. We have a website for *gpaw-tools* at **[here](https://www.lrgresearch.org/gpaw-tools/)**.
 
+#### July 2021
+
+* Mehmet Taha Haliloglu is joined to our group. Welcome Mehmet Taha.
+
 #### June 2021
 
 * Meltem Yayla has finished her studies, passed her viva and gained her title. Congratulations Meltem Yayla, MSc.
