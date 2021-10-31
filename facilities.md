@@ -44,7 +44,7 @@ Stage and EBox Size:	Compact table top design, with passive vibration prevention
 
 [![Image](files/quantumwise.jpg)](https://www.synopsys.com/silicon/quantumatk.html) | QuantumWise ATK: First-principles simulation software for nanoscience,
 [![Image](files/castep.png)](http://www.castep.org/) | CASTEP: is a full-featured materials modelling code based on a first-principles quantum mechanical description of electrons and nuclei.
-[![Image](files/fhiaims.png)]() | FHI-Aims: is an efficient, accurate all-electron, full-potential electronic structure code package.
-[![Image](files/gpaw-logo.svg)]() | GPAW: GPAW is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
-[![Image](files/gpaw-tools.png)]() | gpaw-tools: UI and GUI for DFT code GPAW for easy job and results management.
+[![Image](files/fhiaims.png)](https://fhi-aims.org/) | FHI-Aims: is an efficient, accurate all-electron, full-potential electronic structure code package.
+[![Image](files/gpaw-logo.svg)](https://wiki.fysik.dtu.dk/gpaw/) | GPAW: GPAW is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW) method and the atomic simulation environment (ASE).
+[![Image](files/gpaw-tools.png)](https://www.lrgresearch.org/gpaw-tools/) | gpaw-tools: UI and GUI for DFT code GPAW for easy job and results management.
 
