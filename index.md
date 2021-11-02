@@ -5,6 +5,15 @@ layout: page
 
 ## News
 
+
+#### November 2021
+
+* New version (v21.11.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21110) page.
+ 
+#### October 2021
+
+* New version (v21.10.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21100) page.
+
 #### September 2021
 
 * Prof. Lisesivdin and Assoc Prof. Sarikavak-Lisesivdin developed UI/GUI python scripts for GPAW users to facilate GPAW calculations easily. It is called *gpaw-tools*. It is distributed as an open-source software and can be downloaded from **[https://github.com/lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools)**. We have a website for *gpaw-tools* at **[here](https://www.lrgresearch.org/gpaw-tools/)**.
