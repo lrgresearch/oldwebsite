@@ -8,7 +8,8 @@ layout: page
 
 #### November 2021
 
-* A new article **"[Investigation of Structural and Optical Properties of ZnO Thin Films Grown on Different Substrates by Mist-CVD Enhanced with Ozone Gas Produced by Corona Discharge Plasma](https://doi.org/10.1155/2021/1130829)** which is a result of our D.E.H.A Project, is published in  Advances in Condensed Matter Physics.
+* Second article in this month, **"[Investigation of Structural and Optical Properties of ZnO Thin Films Grown on Different Substrates by Mist-CVD Enhanced with Ozone Gas Produced by Corona Discharge Plasma](https://doi.org/10.1155/2021/1130829)** which is a result of our D.E.H.A Project, is published in  Advances in Condensed Matter Physics.
+* A new article, **[A novel hot carrier-induced blue light-emitting device](https://doi.org/10.1016/j.jallcom.2021.160511)**, which is a  joint study between  Istanbul University, Antalya Bilim University, Bilkent University, Gazi University and Eskisehir Technical University, is published in Journal of Alloys and Compounds.
 * New version (v21.11.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21110) page.
  
 #### October 2021
