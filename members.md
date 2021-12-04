@@ -20,6 +20,7 @@ title: Members
 ![MTHaliloglu](files/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc
 ![MYayla](files/members/nopic.png) | Ms Meltem Yayla, BSc
 ![THan](files/members/nopic.png) | Ms Tugce Han, BSc
+![GErcetin](files/members/nopic.png) | Ms Gul Ercetin, BSc
 ![PTurhan](files/members/nopic.png) | Mrs Pakize Turhan, BSc
 
 ## Alumni
