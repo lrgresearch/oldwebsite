@@ -6,7 +6,7 @@ title: Members
 ## Faculty Members
 
 ![MKasap](files/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](http://websitem.gazi.edu.tr/site/mkasap)
-![SBLisesivdin](files/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](http://sblisesivdin.github.io)
+![SBLisesivdin](files/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](https://www.lrgresearch.org/bora/)
 ![BLisesivdin](files/members/nopic.png) | [Assoc. Prof. Dr. Beyza Lisesivdin](http://websitem.gazi.edu.tr/site/beyzas)
 
 ## Postdoctorate Research Fellow
