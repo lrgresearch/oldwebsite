@@ -16,6 +16,9 @@ title: Research
 [<img width="220" src="files/sinongan.png">](sinongan.md)
 
 .
+
+---
+
 ## Next in LRG
 
 ### Focus on Hybrid Investigation of Defects in 2D/3D Structures (Sep 2021)
