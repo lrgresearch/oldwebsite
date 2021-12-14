@@ -5,12 +5,17 @@ title: Research
 
 ---
 
-[<button class="button button4px">Main Research Subjects</button>](researchsubjects.md) 
-[<button class="button button4px">Projects</button>](projects.md) 
+[<button class="button button4px">Main Research Subjects</button>](researchsubjects.md)
 [<button class="button button4px">Theses and Dissertations</button>](theses-and-dissertations.md) 
 
 ---
+## Project websites
 
+[<img align="left" width="200" src="files/deha.png">](https://www.lrgresearch.org/deha/)
+[<img align="left" width="200" src="files/ultrathin.png">](https://www.lrgresearch.org/ultrathin/)
+[<img width="200" src="files/sinongan.png">](sinongan.md)
+
+.
 ## Next in LRG
 
 ### Focus on Hybrid Investigation of Defects in 2D/3D Structures (Sep 2021)
