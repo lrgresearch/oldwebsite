@@ -7,7 +7,17 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ## SCI Articles
 
+### 2022
+
+80.) P. Narin, E. Kutlu‐Narin, G.Atmaca, B. Sarikavak‐Lisesivdin, S. B. Lisesivdin, E. Ozbay, "A Structural Analysis of Ultrathin Barrier (In)AlN/GaN Heterostructures for GaN‐based High‐frequency Power Electronics" Surf. Interface Anal.(2022).
+
+79.) S. B. Lisesivdin, B. Sarikavak-Lisesivdin. "gpaw-tools–higher-level user interaction scripts for GPAW calculations and interatomic potential based structure optimization." Comput. Mater. Sci. 204, (2022).
+
 ### 2021
+
+78.) E. Kutlu-Narin, P. Narin, S. B. Lisesivdin, B. Sarikavak-Lisesivdin "Investigation of Structural and Optical Properties of ZnO Thin Films Grown on Different Substrates by Mist-CVD Enhanced with Ozone Gas Produced by Corona Discharge Plasma" Adv. Condens. Matter Phys. (2021).
+
+77.) S. Mutlu, A. Erol, E. Arslan, E. Ozbay, S. B. Lisesivdin, E. Tiras "A novel hot carrier-induced blue light-emitting device" J. Alloys Compd. 881, (2021).
 
 76.) E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films" Appl. Phys. A 127, 367 (2021).
 
