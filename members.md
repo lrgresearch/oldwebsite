@@ -22,6 +22,7 @@ title: Members
 ![THan](files/members/nopic.png) | Ms Tugce Han, BSc
 ![GErcetin](files/members/nopic.png) | Ms Gul Ercetin, BSc
 ![PTurhan](files/members/nopic.png) | Mrs Pakize Turhan, BSc
+![UCaglar](files/members/nopic.png) | Mr. Umut Caglar, BEng
 
 ## Alumni
 
