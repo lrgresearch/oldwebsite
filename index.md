@@ -5,6 +5,10 @@ layout: page
 
 ## News
 
+#### February 2022
+
+* Umut Caglar is joined to our group. Welcome Umut
+
 #### December 2021
 
 * New version (v21.12.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-21120) page.
