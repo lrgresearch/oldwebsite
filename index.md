@@ -8,6 +8,11 @@ layout: page
 #### February 2022
 
 * Umut Caglar is joined to our group. Welcome Umut
+* A new article **"[A Structural Analysis of Ultrathin Barrier (In)AlN/GaN Heterostructures for GaN‐based High‐frequency Power Electronics](https://doi.org/10.1002/sia.7067)"** is published in Surf. Interface Anal.
+
+#### January 2022
+
+* A new article **"[gpaw-tools–higher-level user interaction scripts for GPAW calculations and interatomic potential based structure optimization](https://doi.org/10.1016/j.commatsci.2022.111201)"** is published in Comput. Mater. Sci.
 
 #### December 2021
 
