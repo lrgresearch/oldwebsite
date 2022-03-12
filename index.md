@@ -7,11 +7,13 @@ layout: page
 
 #### March 2022
 
+* Beyza Lisesivdin, has been appointed to full professor to Gazi University, Faculty of Science, Department of Physics. Congratulations.
 * New version (v22.3.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2230) page.
 
 #### February 2022
 
-* Umut Caglar is joined to our group. Welcome Umut
+* Sefa Kazanc is joined to our group. Welcome Sefa.
+* Umut Caglar is joined to our group. Welcome Umut.
 * A new article **"[A Structural Analysis of Ultrathin Barrier (In)AlN/GaN Heterostructures for GaN‐based High‐frequency Power Electronics](https://doi.org/10.1002/sia.7067)"** is published in Surf. Interface Anal.
 
 #### January 2022
