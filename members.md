@@ -42,14 +42,15 @@ title: Members
 * Gokhan Atmaca @ Hongik University, South Korea.
 
 ### MSc
-* Kenan Elibol @ Max Planck Institute for Solid State Research, Germany.
-* Ece Kutlu Narin
-* Kemal Berk Sonmez
-* Mehmet Taha Haliloglu @ AB Mikronano
-* Rokaia Ibrahem
-* Oznur Omeroglu
+
+* Ece Kutlu Narin @ Ankara Univ, Turkey.
+* Kemal Berk Sonmez @ Roketsan, Turkey.
+* Mehmet Taha Haliloglu @ AB Mikronano, Turkey.
+* Rokaia Ibrahem @ Istanbul University, Turkey.
+* Oznur Omeroglu @ Eskisehir Technical University, Turkey.
 * Mehmet Ozturk
-* Jangeez Mostafa M. Jameel Al Abbas
+* Jangeez Mostafa M. Jameel Al Abbas, University of Baghdad, Iraq.
 * Elif Yazbahar
+* Kenan Elibol @ Max Planck Institute for Solid State Research, Germany.
 * Gulser Karakoc
 * Cem Gunes
