@@ -5,9 +5,9 @@ title: Members
 
 ## Faculty Members
 
-![MKasap](files/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](http://websitem.gazi.edu.tr/site/mkasap)
+![MKasap](files/members/mkasap.jpg) | [Prof. Dr. Mehmet Kasap](https://avesis.gazi.edu.tr/mkasap)
 ![SBLisesivdin](files/members/bora.jpg) | [Prof. Dr. Sefer Bora Lisesivdin](https://www.lrgresearch.org/bora/)
-![BLisesivdin](files/members/nopic.png) | [Assoc. Prof. Dr. Beyza Lisesivdin](http://websitem.gazi.edu.tr/site/beyzas)
+![BLisesivdin](files/members/nopic.png) | [Prof. Dr. Beyza Lisesivdin](https://avesis.gazi.edu.tr/beyzas)
 
 ## Postdoctorate Research Fellow
 
@@ -15,7 +15,7 @@ title: Members
 
 ## Graduate (PhD/Masters) Students
 
-![EKutluNarin](files/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University)
+![EKutluNarin](files/members/ece.jpg) | Mrs Ece Kutlu Narin, MSc (@ Ankara University, SBL is 2nd supervisor)
 ![MYesiltepe](files/members/nopic.png) | Ms Meltem Yesiltepe, BEng, MSc
 ![MTHaliloglu](files/members/nopic.png) | Mr Mehmet Taha Haliloglu, MSc
 ![MYayla](files/members/nopic.png) | Ms Meltem Yayla, BSc
@@ -23,24 +23,33 @@ title: Members
 ![GErcetin](files/members/nopic.png) | Ms Gul Ercetin, BSc
 ![PTurhan](files/members/nopic.png) | Mrs Pakize Turhan, BSc
 ![UCaglar](files/members/nopic.png) | Mr. Umut Caglar, BEng
+![SKazanc](files/members/nopic.png) | Mr. Sefa Kazanc, BEng (@ Faculty of Technology, SBL is 2nd supervisor)
+
+## Collaborations (Alphabetically listed)
+
+* Prof. Dr. Naci Balkan (RIP) @ Essex University, UK.
+* Prof. Dr. Ayşe Erol @ Istanbul University, Turkey.
+* Prof. Dr. Fedor Jelezko @ University of Ulm, Germany.
+* Prof. Dr. Ekmel Ozbay @ Bilkent University, Turkey.
+* Prof. Dr. Engin Tiras @ Eskisehir Technical University, Turkey.
+* Prof. Dr. Abdullah Yildiz @ Ankara Yildirim Beyazit University, Turkey.
 
 ## Alumni
 
 ### PhD
 
-* Dr Polat Narin @ AYBU, Turkey.
-* Dr Gokhan Atmaca @ CEA LETI, France.
-* Dr Kenan Elibol @ University of Vienna, Austria.
+* Polat Narin @ Ankara Yildirim Beyazit University, Turkey.
+* Gokhan Atmaca @ Hongik University, South Korea.
 
 ### MSc
-
-* Mrs Ece Kutlu Narin, MSc
-* Mr Kemal Berk Sonmez, BEng, MSc
-* Mr Mehmet Taha Haliloglu, BEng, MSc @ AB Mikronano
-* Ms Rokaia Ibrahem, MSc
-* Ms Oznur Omeroglu, MSc
-* Mr Mehmet Ozturk, MSc
-* Mr Jangeez Mostafa M. Jameel Al Abbas, MSc
-* Ms Elif Yazbahar, MSc
-* Ms Gulser Karakoc, MSc
-* Mr Cem Gunes, MSc
+* Kenan Elibol @ Max Planck Institute for Solid State Research, Germany.
+* Ece Kutlu Narin
+* Kemal Berk Sonmez
+* Mehmet Taha Haliloglu @ AB Mikronano
+* Rokaia Ibrahem
+* Oznur Omeroglu
+* Mehmet Ozturk
+* Jangeez Mostafa M. Jameel Al Abbas
+* Elif Yazbahar
+* Gulser Karakoc
+* Cem Gunes
