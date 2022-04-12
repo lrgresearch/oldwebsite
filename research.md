@@ -14,6 +14,8 @@ title: Research
 [<img align="left" width="220" src="files/deha.png">](https://www.lrgresearch.org/deha/)
 [<img align="left" width="220" src="files/ultrathin.png">](https://www.lrgresearch.org/ultrathin/)
 [<img width="220" src="files/sinongan.png">](https://www.lrgresearch.org/sinongan/)
+[<img width="220" src="files/graphenepd.png">](https://www.lrgresearch.org/graphenepd/)
+[<img width="220" src="files/oxidehemt.png">](https://www.lrgresearch.org/oxidehemt/)
 
 .
 
