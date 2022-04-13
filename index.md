@@ -7,6 +7,10 @@ layout: page
 
 #### March 2022
 
+* New version (v22.4.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2240) page.
+
+#### March 2022
+
 * Beyza Lisesivdin, has been appointed to full professor to Gazi University, Faculty of Science, Department of Physics. Congratulations.
 * New version (v22.3.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2230) page.
 
