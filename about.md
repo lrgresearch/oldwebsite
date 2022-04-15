@@ -16,7 +16,7 @@ We are capable to conduct both experimental and calculations studies. More infor
 
 Department of Physics, Faculty of Science, Gazi University, Ankara, Turkey 06500
 * Laboratory: Lab Building Room 335
-* Office: Class Building Room O-3008
+* Office: Deanery Building Room Z-28
 * Phone: +90 312 202 1391
 * bora-AT-gazi.edu.tr
 * [http://www.lrgresearch.org](http://www.lrgresearch.org)
