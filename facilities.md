@@ -14,6 +14,8 @@ We are studying in both experimentally and numerically. You may found more infor
 We have an Ultrasonic Spray Chemical Vapor Deposition with Remote Spark Plasma Generator for Ozone generation for growth of ZnO, MgZnO and their heterostructures.
 
 In additional to our ZnO system, we have a small Graphene CVD system.
+![20201126_141340](https://user-images.githubusercontent.com/38785795/175830491-101199c2-59f2-4146-9e23-22d109193173.jpg)
+
 
 ### Electrical Characterization Laboratory
 
