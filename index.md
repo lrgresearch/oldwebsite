@@ -5,6 +5,10 @@ layout: page
 
 ## News
 
+#### August 2022
+
+* A new article **"[Morphological and optical characterizations of different ZnO nanostructures grown by mist-CVD](https://doi.org/10.1016/j.jlumin.2022.119158))"** is published in J. Lumin.
+
 #### July 2022
 * [Aestimo 1D version 3.0](https://www.aestimosolver.org/) is released. This is a major release nearly again 2 years after. Because the code base is complicated and the usage of Aestimo is hard to understand, this release is mostly a simplification and clean-up release. Please visit to [release notes](https://www.aestimosolver.org/releasenotes.html#v300-july-13-2022) for more information.
 * New version (v22.7.0) of *gpaw-tools* is released. It can be downloaded from *gpaw-tools* [repository](https://github.com/lrgresearch/gpaw-tools). You can find what's new at [release notes](https://www.lrgresearch.org/gpaw-tools/releasenotes/#version-2270) page.
