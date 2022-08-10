@@ -9,6 +9,8 @@ The articles are copyrighted (©) by the respective publishers. Please do not he
 
 ### 2022
 
+81.) P. Narin, E. Kutlu‐Narin, S. Kayral, R. Tulek, S. Gokden, A. Teke, S. B. Lisesivdin, "Morphological and optical characterizations of different ZnO nanostructures grown by mist-CVD" J. Lumin. 251, 119158 (2022).
+
 80.) P. Narin, E. Kutlu‐Narin, G.Atmaca, B. Sarikavak‐Lisesivdin, S. B. Lisesivdin, E. Ozbay, "A Structural Analysis of Ultrathin Barrier (In)AlN/GaN Heterostructures for GaN‐based High‐frequency Power Electronics" Surf. Interface Anal. 54, 576 (2022).
 
 79.) S. B. Lisesivdin, B. Sarikavak-Lisesivdin. "gpaw-tools–higher-level user interaction scripts for GPAW calculations and interatomic potential based structure optimization" Comput. Mater. Sci. 204, 111201 (2022).
